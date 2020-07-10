@@ -1,1 +1,2 @@
-# React-To-Do-List-
+# KeepNote
+This a clone of Google Keep build using React.js.
